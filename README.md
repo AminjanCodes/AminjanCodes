@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Amin Jan 👋
 
-<!--
-**AminjanCodes/AminjanCodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack developer on the JavaScript/TypeScript stack. I take a project from idea to deployment, and I'm still around afterward to fix and maintain it.
 
-Here are some ideas to get you started:
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Now
+
+- Full-stack web developer at **FuelXL Petroleum**, building and maintaining their web apps.
+- Building a **ride-hailing app** — [one line on what it does, who it's for].
+
+## Working style
+
+I pick up new tools fast when a project needs them, and I'd rather ship something real than polish it in isolation. Comfortable owning a project end to end — plan it, build it, deploy it, keep it running.
+
+## Reach me
+
+[LinkedIn] AminjanCodes · [your@email.com](mailto:your@email.com)# Hi, I'm [Your Name] 👋
+
+Full-stack developer on the JavaScript/TypeScript stack. I take a project from idea to deployment, and I'm still around afterward to fix and maintain it.
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+
+## Now
+
+- Full-stack web developer at **FuelXL Petroleum**, building and maintaining their web apps.
+- Building a **ride-hailing app** — [one line on what it does, who it's for].
+
+## Working style
+
+I pick up new tools fast when a project needs them, and I'd rather ship something real than polish it in isolation. Comfortable owning a project end to end — plan it, build it, deploy it, keep it running.
+
+## Reach me
+
+[LinkedIn](#) · [your@email.com](mailto:your@email.com)
