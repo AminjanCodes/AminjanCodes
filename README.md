@@ -9,7 +9,7 @@ Full-stack developer on the JavaScript/TypeScript stack. I take a project from i
 ## Now
 
 - Full-stack web developer at **FuelXL Petroleum**, building and maintaining their web apps.
-- Building a **Ride-website app** — [Solving my city public transportation issue by making it cheaper and faster].
+- Building a **Ride-website app**  Solving my city public transportation issue by making it cheaper and faster.
 
 ## Working style
 
