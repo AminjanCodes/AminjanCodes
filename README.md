@@ -17,4 +17,4 @@ I pick up new tools fast when a project needs them, and I'd rather ship somethin
 
 ## Reach me
 
-[LinkedIn](#) · [your@email.com](aminjancodes@email.com)
+[LinkedIn](https://www.linkedin.com/in/aminjancodes/) · [Gmail](aminjancodes@email.com)
