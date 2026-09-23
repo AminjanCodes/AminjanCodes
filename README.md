@@ -13,7 +13,7 @@ Full-stack developer on the JavaScript/TypeScript stack. I take a project from i
 
 ## Working style
 
-I pick up new tools fast when a project needs them, and I'd rather ship something real than polish it in isolation. Comfortable owning a project end to end — plan it, build it, deploy it, keep it running.
+Idea to codes, Concept to Deployment 
 
 ## Reach me
 
