@@ -1,4 +1,4 @@
-# Hi, I'm [Amin Jan] 👋
+# Hi, I'm Amin Jan
 
 Full-stack developer on the JavaScript/TypeScript stack. I take a project from idea to deployment, and I'm still around afterward to fix and maintain it.
 
